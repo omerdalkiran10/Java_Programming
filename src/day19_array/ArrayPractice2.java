@@ -42,6 +42,7 @@ public class ArrayPractice2 {
 
         System.out.println("arr2 = " + Arrays.toString(arr2) );
 
+
     }
 
 }

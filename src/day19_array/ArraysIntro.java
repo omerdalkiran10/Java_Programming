@@ -1,6 +1,7 @@
 package day19_array;
 
 import java.util.Arrays;
+
 public class ArraysIntro {
 
     public static void main(String[] args) {
