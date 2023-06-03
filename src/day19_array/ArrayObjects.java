@@ -19,7 +19,6 @@ public class ArrayObjects {
 
 
 
-
         System.out.println("----------------------------------------------------");
 
         String[] a1 = {"Umran", "Mehmet"};

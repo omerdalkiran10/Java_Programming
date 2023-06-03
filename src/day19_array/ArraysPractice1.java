@@ -1,5 +1,7 @@
 package day19_array;
+
 import java.util.Arrays;
+
 public class ArraysPractice1 {
 
     public static void main(String[] args) {
