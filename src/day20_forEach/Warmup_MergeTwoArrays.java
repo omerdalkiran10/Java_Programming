@@ -1,7 +1,6 @@
 package day20_forEach;
 
 import utilities.ArraysUtility;
-
 import java.util.Arrays;
 
 public class Warmup_MergeTwoArrays {

@@ -21,6 +21,7 @@ public class Warmup_MultiplyOddNumbers {
 
     }
 }
+
 /*
  write a program that can multiply each odd number of an integer array by 2
 		            ex:

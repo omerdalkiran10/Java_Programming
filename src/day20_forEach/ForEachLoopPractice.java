@@ -3,6 +3,7 @@ package day20_forEach;
 import java.util.Arrays;
 
 public class ForEachLoopPractice {
+
     public static void main(String[] args) {
 
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
@@ -64,8 +65,6 @@ public class ForEachLoopPractice {
         for (String each : names) {
             System.out.println(each.charAt(0) +"."+each.charAt( each.lastIndexOf(" ") +1) );
         }
-
-
 
 
 
