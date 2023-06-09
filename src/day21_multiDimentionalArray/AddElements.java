@@ -1,7 +1,6 @@
 package day21_multiDimentionalArray;
 
 import utilities.ArraysUtility;
-
 import java.util.Arrays;
 
 public class AddElements {
