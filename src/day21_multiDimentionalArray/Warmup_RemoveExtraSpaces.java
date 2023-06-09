@@ -23,7 +23,6 @@ public class Warmup_RemoveExtraSpaces {
 
     }
 
-
 }
 
 /*
