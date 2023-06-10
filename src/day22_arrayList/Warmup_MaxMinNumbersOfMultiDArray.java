@@ -32,7 +32,6 @@ public class Warmup_MaxMinNumbersOfMultiDArray {
 
 
     }
-
 }
 
 /*
