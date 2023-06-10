@@ -1,5 +1,6 @@
 package day22_arrayList;
 public class WrapperClassesIntro {
+
     public static void main(String[] args) {
 
         String str = "Java";
@@ -46,6 +47,5 @@ public class WrapperClassesIntro {
 
 
     }
-
 
 }
