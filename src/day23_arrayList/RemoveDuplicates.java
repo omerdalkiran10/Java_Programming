@@ -3,6 +3,7 @@ package day23_arrayList;
 import java.util.ArrayList;
 
 public class RemoveDuplicates {
+
     public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<>();
         names.add("Vasyl"); // 0

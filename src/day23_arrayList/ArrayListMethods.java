@@ -141,6 +141,7 @@ public class ArrayListMethods {
         System.out.println(n2.isEmpty());
 
 
+
     }
 
 }
