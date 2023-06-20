@@ -45,7 +45,7 @@ public class AccessModifiers {
         defaultMethod();
         privateMethod();
 
-    }
 
+    }
 
 }

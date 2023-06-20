@@ -27,4 +27,5 @@ public class StaticBlock_vs_InstanceBlock_vs_Constructor {
     }
 
 
+
 }

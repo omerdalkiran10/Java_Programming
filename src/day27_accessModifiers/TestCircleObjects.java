@@ -23,7 +23,6 @@ public class TestCircleObjects {
         // System.out.println(Circle.radius);
 
 
-
     }
 
 }

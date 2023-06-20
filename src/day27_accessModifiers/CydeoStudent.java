@@ -23,6 +23,7 @@ public class CydeoStudent {
         secretCode = "Wooden Spoon";
     }
 
+
     public String toString() {
         return "CydeoStudent{" +
                 "name='" + name + '\'' +
